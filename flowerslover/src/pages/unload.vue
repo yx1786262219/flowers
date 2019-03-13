@@ -218,6 +218,7 @@ export default {
       }
 
       this.showPositionValue = true;
+      
     }
   }
 };
